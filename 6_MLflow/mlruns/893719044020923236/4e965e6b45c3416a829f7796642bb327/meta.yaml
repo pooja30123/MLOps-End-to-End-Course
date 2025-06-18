@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Coding/The%20Ultimate%20MLOps/6_MLflow/mlruns/893719044020923236/4e965e6b45c3416a829f7796642bb327/artifacts
+end_time: 1745000940165
+entry_point_name: ''
+experiment_id: '893719044020923236'
+lifecycle_stage: active
+run_id: 4e965e6b45c3416a829f7796642bb327
+run_name: skittish-skunk-200
+run_uuid: 4e965e6b45c3416a829f7796642bb327
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745000940113
+status: 3
+tags: []
+user_id: POOJA

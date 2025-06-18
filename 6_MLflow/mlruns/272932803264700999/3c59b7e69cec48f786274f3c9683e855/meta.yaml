@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Coding/The%20Ultimate%20MLOps/6_MLflow/mlruns/272932803264700999/3c59b7e69cec48f786274f3c9683e855/artifacts
+end_time: 1744996256543
+entry_point_name: ''
+experiment_id: '272932803264700999'
+lifecycle_stage: active
+run_id: 3c59b7e69cec48f786274f3c9683e855
+run_name: upset-roo-688
+run_uuid: 3c59b7e69cec48f786274f3c9683e855
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744996255140
+status: 3
+tags: []
+user_id: POOJA

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1745002536356
+current_stage: None
+description: ''
+last_updated_timestamp: 1745002536356
+name: Pooja_Model1
+run_id: 44c3ea834ed44fddaa172fa104bda18c
+run_link: ''
+source: file:///C:/Coding/The%20Ultimate%20MLOps/6_MLflow/mlruns/893719044020923236/44c3ea834ed44fddaa172fa104bda18c/artifacts/random_forest
+status: READY
+status_message: null
+storage_location: file:///C:/Coding/The%20Ultimate%20MLOps/6_MLflow/mlruns/893719044020923236/44c3ea834ed44fddaa172fa104bda18c/artifacts/random_forest
+user_id: null
+version: 2

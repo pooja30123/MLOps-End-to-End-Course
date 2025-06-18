@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Coding/The%20Ultimate%20MLOps/6_MLflow/mlruns/893719044020923236/ffcc06d91b204010b46519509008694a/artifacts
+end_time: 1745000940375
+entry_point_name: ''
+experiment_id: '893719044020923236'
+lifecycle_stage: active
+run_id: ffcc06d91b204010b46519509008694a
+run_name: mercurial-moose-147
+run_uuid: ffcc06d91b204010b46519509008694a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745000940328
+status: 3
+tags: []
+user_id: POOJA

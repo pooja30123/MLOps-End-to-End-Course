@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Coding/The%20Ultimate%20MLOps/6_MLflow/mlruns/893719044020923236/8395329c4f6d49c9851291bab37d7300/artifacts
+end_time: 1745000940480
+entry_point_name: ''
+experiment_id: '893719044020923236'
+lifecycle_stage: active
+run_id: 8395329c4f6d49c9851291bab37d7300
+run_name: bedecked-croc-217
+run_uuid: 8395329c4f6d49c9851291bab37d7300
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745000940430
+status: 3
+tags: []
+user_id: POOJA

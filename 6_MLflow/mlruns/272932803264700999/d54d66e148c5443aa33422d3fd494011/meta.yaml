@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Coding/The%20Ultimate%20MLOps/6_MLflow/mlruns/272932803264700999/d54d66e148c5443aa33422d3fd494011/artifacts
+end_time: 1744989329974
+entry_point_name: ''
+experiment_id: '272932803264700999'
+lifecycle_stage: active
+run_id: d54d66e148c5443aa33422d3fd494011
+run_name: sneaky-shad-378
+run_uuid: d54d66e148c5443aa33422d3fd494011
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744989329909
+status: 3
+tags: []
+user_id: POOJA

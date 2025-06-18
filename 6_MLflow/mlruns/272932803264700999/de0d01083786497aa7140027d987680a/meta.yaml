@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Coding/The%20Ultimate%20MLOps/6_MLflow/mlruns/272932803264700999/de0d01083786497aa7140027d987680a/artifacts
+end_time: 1744989287093
+entry_point_name: ''
+experiment_id: '272932803264700999'
+lifecycle_stage: active
+run_id: de0d01083786497aa7140027d987680a
+run_name: caring-wolf-522
+run_uuid: de0d01083786497aa7140027d987680a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744989287029
+status: 3
+tags: []
+user_id: POOJA

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Coding/The%20Ultimate%20MLOps/6_MLflow/mlruns/272932803264700999/885d172432e8400c92ac6a17ebced356/artifacts
+end_time: 1744989439716
+entry_point_name: ''
+experiment_id: '272932803264700999'
+lifecycle_stage: active
+run_id: 885d172432e8400c92ac6a17ebced356
+run_name: capable-cow-211
+run_uuid: 885d172432e8400c92ac6a17ebced356
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744989439343
+status: 3
+tags: []
+user_id: POOJA

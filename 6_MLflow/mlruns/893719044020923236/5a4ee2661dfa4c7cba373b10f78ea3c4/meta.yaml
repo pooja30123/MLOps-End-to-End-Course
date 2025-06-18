@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Coding/The%20Ultimate%20MLOps/6_MLflow/mlruns/893719044020923236/5a4ee2661dfa4c7cba373b10f78ea3c4/artifacts
+end_time: 1745000940699
+entry_point_name: ''
+experiment_id: '893719044020923236'
+lifecycle_stage: active
+run_id: 5a4ee2661dfa4c7cba373b10f78ea3c4
+run_name: luxuriant-wasp-216
+run_uuid: 5a4ee2661dfa4c7cba373b10f78ea3c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745000940635
+status: 3
+tags: []
+user_id: POOJA

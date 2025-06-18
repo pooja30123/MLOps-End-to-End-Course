@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Coding/The%20Ultimate%20MLOps/6_MLflow/mlruns/272932803264700999/e1529e02ba554dd9895cc034393c94b3/artifacts
+end_time: 1744989525063
+entry_point_name: ''
+experiment_id: '272932803264700999'
+lifecycle_stage: active
+run_id: e1529e02ba554dd9895cc034393c94b3
+run_name: smiling-shrew-24
+run_uuid: e1529e02ba554dd9895cc034393c94b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744989524743
+status: 3
+tags: []
+user_id: POOJA

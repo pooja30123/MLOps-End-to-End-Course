@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Coding/The%20Ultimate%20MLOps/6_MLflow/mlruns/893719044020923236/d53f03f979744d76bf0dbe5852974f8d/artifacts
+end_time: 1745000940538
+entry_point_name: ''
+experiment_id: '893719044020923236'
+lifecycle_stage: active
+run_id: d53f03f979744d76bf0dbe5852974f8d
+run_name: welcoming-crow-502
+run_uuid: d53f03f979744d76bf0dbe5852974f8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745000940484
+status: 3
+tags: []
+user_id: POOJA

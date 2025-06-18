@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Coding/The%20Ultimate%20MLOps/6_MLflow/mlruns/893719044020923236/a57bb271c956404cb08594c806920c98/artifacts
+end_time: 1745000940630
+entry_point_name: ''
+experiment_id: '893719044020923236'
+lifecycle_stage: active
+run_id: a57bb271c956404cb08594c806920c98
+run_name: rumbling-gull-832
+run_uuid: a57bb271c956404cb08594c806920c98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745000940544
+status: 3
+tags: []
+user_id: POOJA

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Coding/The%20Ultimate%20MLOps/6_MLflow/mlruns/272932803264700999/7f1ccf439ba9459f9e203c1eb46704bc/artifacts
+end_time: 1744989388790
+entry_point_name: ''
+experiment_id: '272932803264700999'
+lifecycle_stage: active
+run_id: 7f1ccf439ba9459f9e203c1eb46704bc
+run_name: sneaky-mouse-199
+run_uuid: 7f1ccf439ba9459f9e203c1eb46704bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744989388510
+status: 3
+tags: []
+user_id: POOJA

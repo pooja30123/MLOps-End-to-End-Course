@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Coding/The%20Ultimate%20MLOps/6_MLflow/mlruns/893719044020923236/95391d52b0d3417da951a17e406cb52d/artifacts
+end_time: 1745000940217
+entry_point_name: ''
+experiment_id: '893719044020923236'
+lifecycle_stage: active
+run_id: 95391d52b0d3417da951a17e406cb52d
+run_name: sedate-pug-845
+run_uuid: 95391d52b0d3417da951a17e406cb52d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745000940168
+status: 3
+tags: []
+user_id: POOJA

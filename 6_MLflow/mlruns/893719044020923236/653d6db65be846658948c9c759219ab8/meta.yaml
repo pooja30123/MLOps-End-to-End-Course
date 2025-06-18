@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Coding/The%20Ultimate%20MLOps/6_MLflow/mlruns/893719044020923236/653d6db65be846658948c9c759219ab8/artifacts
+end_time: 1745000940108
+entry_point_name: ''
+experiment_id: '893719044020923236'
+lifecycle_stage: active
+run_id: 653d6db65be846658948c9c759219ab8
+run_name: delicate-ox-382
+run_uuid: 653d6db65be846658948c9c759219ab8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745000940054
+status: 3
+tags: []
+user_id: POOJA

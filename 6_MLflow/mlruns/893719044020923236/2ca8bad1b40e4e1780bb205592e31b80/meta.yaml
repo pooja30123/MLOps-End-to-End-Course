@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Coding/The%20Ultimate%20MLOps/6_MLflow/mlruns/893719044020923236/2ca8bad1b40e4e1780bb205592e31b80/artifacts
+end_time: 1745000940050
+entry_point_name: ''
+experiment_id: '893719044020923236'
+lifecycle_stage: active
+run_id: 2ca8bad1b40e4e1780bb205592e31b80
+run_name: awesome-stag-63
+run_uuid: 2ca8bad1b40e4e1780bb205592e31b80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745000939988
+status: 3
+tags: []
+user_id: POOJA

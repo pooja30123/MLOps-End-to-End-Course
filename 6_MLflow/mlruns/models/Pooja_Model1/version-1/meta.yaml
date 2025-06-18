@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1745002500050
+current_stage: None
+description: ''
+last_updated_timestamp: 1745002500050
+name: Pooja_Model1
+run_id: af5b83df68d44f009121377c0ee7e107
+run_link: ''
+source: mlflow-artifacts:/460230986232983992/af5b83df68d44f009121377c0ee7e107/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/460230986232983992/af5b83df68d44f009121377c0ee7e107/artifacts/model
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Coding/The%20Ultimate%20MLOps/6_MLflow/mlruns/893719044020923236/8e6e08387dd146caadac8dd5ed4ba2e4/artifacts
+end_time: 1745000947232
+entry_point_name: ''
+experiment_id: '893719044020923236'
+lifecycle_stage: active
+run_id: 8e6e08387dd146caadac8dd5ed4ba2e4
+run_name: resilient-cub-204
+run_uuid: 8e6e08387dd146caadac8dd5ed4ba2e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745000940705
+status: 3
+tags: []
+user_id: POOJA
