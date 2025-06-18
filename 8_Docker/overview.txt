@@ -1,0 +1,26 @@
+Install Docker
+Signin to the Dockerhub and Docker Destop
+Docker Destop:
+> check docker install: cli -? "docker"
+> Pull the hello-world image and run install
+
+* Assure that you are logged in docker
+docker login
+
+* Build docker image:
+docker build  -t demo
+
+* Run the container:
+docker run -p 5000:5000 demo
+
+* Tag your image:
+docker tag demo poojaverma1234/demo:latest
+
+*Push image to dockerhub:
+docker push poojaverma1234/demo:latest
+
+* Pull image from dockerhub:
+doker pull poojaverma1234/demo:latest
+
+* Run the pulled image:
+ docker run -p 5000:5000 poojaverma1234/demo:latest
